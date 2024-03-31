@@ -1,0 +1,152 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Sidney Hoppe",
+      "id": 6
+    },
+    {
+      "name": "Blanche Halvorson",
+      "id": 7
+    },
+    {
+      "name": "Ernestine Leuschke",
+      "id": 8
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 3,
+      "title": "Small Metal Salad",
+      "id": 2
+    },
+    {
+      "userId": 4,
+      "title": "Handmade Wooden Keyboard",
+      "id": 3
+    },
+    {
+      "userId": 3,
+      "title": "Refined Cotton Computer",
+      "id": 4
+    },
+    {
+      "userId": 4,
+      "title": "Refined Plastic Bacon",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Fresh Mouse",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "title": "Electronic Metal Pizza",
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Rubber Salad",
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "title": "Small Steel Chair",
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Fresh Soap",
+      "id": 11
+    },
+    {
+      "userId": 6,
+      "title": "Tasty Wooden Soap",
+      "id": 14
+    },
+    {
+      "userId": 6,
+      "title": "Fantastic Fresh Towels",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Handcrafted Metal Car",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "title": "Handmade Plastic Ball",
+      "id": 19
+    },
+    {
+      "userId": 7,
+      "title": "Intelligent Rubber Car",
+      "id": 20
+    },
+    {
+      "userId": 7,
+      "title": "Gorgeous Soft Keyboard",
+      "id": 21
+    },
+    {
+      "userId": 8,
+      "title": "Licensed Rubber Chips",
+      "id": 22
+    },
+    {
+      "userId": 8,
+      "title": "Licensed Soft Pants",
+      "id": 23
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=31717",
+      "id": 1
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=86855",
+      "id": 2
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=94592",
+      "id": 4
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=80945",
+      "id": 5
+    },
+    {
+      "albumId": 22,
+      "url": "https://loremflickr.com/150/150/abstract?lock=92563",
+      "id": 7
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=20655",
+      "id": 8
+    }
+  ]
+}
